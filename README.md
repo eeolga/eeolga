@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeolga
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently studying deep learning
 - 💞️ I’m looking to collaborate on coding
 
 
